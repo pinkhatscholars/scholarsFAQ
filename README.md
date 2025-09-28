@@ -37,7 +37,7 @@ Mentorship is until the program deadline which typically runs for a year.
 
 ```
 
-### 🎀 Scholarship winner requirments ?
+### 🎀 Scholarship winner requirements ?
 ```
 - Confirmation of Voucher Receipt: Winner must show proof and confirmation of reciving voucher.
 - Exam Scheduling Proof: Must show proof of scheduled exam. Winners have 1 month to provide a testing date and schedule the exam.
